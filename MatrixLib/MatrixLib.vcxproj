@@ -85,7 +85,7 @@
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="MatrixAddSub.cpp" />
-    <ClCompile Include="MatrixInverse.cpp" />
+    <ClCompile Include="MatrixTranspose.cpp" />
     <ClCompile Include="MatrixLib.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="Stdafx.cpp">
